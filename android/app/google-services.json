@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287563009838",
+    "firebase_url": "https://mediapp-5a6fb.firebaseio.com",
+    "project_id": "mediapp-5a6fb",
+    "storage_bucket": "mediapp-5a6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287563009838:android:be85153fd44a0dd347b4bf",
+        "android_client_info": {
+          "package_name": "com.wijsterpie.mediapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287563009838-82e87pr5ie80ue0ga09e4h9m7sbr17b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKn-NQ70KVCWTaxcdNThmGsnHwZdByJ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287563009838-82e87pr5ie80ue0ga09e4h9m7sbr17b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
